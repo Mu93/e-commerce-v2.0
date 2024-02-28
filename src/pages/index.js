@@ -1,0 +1,5 @@
+export { default as Categories } from './categories/Categories'
+export { default as Dashboard } from './Dashboard'
+export { default as NotFound } from './NotFound'
+export { default as Products } from './products/Products'
+export { default as AuthPage } from './auth/AuthPage'
